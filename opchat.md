@@ -179,18 +179,8 @@ V-1 항목과 V-2 항목에 해당하지 않지만 카카오톡의 비정상적�
 - 즈벤 | [KTB](https://open.kakao.com/o/g7fNdm7b)
 - 스노우 | [재밌는 카카오톡 봇 게임](https://open.kakao.com/o/gyyXcCeb)
 - 스노우 | [코딩 질문 있어요 !](https://open.kakao.com/o/gaIgfh8b)
-
-  - nolbo | 2021 자동응답 봇 개발
-[ https://open.kakao.com/o/grwzHthd ]
-
-  - 밥풍리 | 카톡봇 만들기
-[ https://open.kakao.com/o/gyT0s8Xc ]
-
-  - 뉴빙 | 카카오톡 봇만들기 프로젝트 및 수다방
-[ https://open.kakao.com/o/gJ9O0Twc ]
-
-  - 민호
-[ https://open.kakao.com/o/gH0QtJzb ]
-
-  - 묨 | 카카오톡 봇 만들기 방&카카오톡 봇 질문방, 대화방
-[ https://open.kakao.com/o/gwNM2nwc ]
+- nolbo | [2021 자동응답 봇 개발](https://open.kakao.com/o/grwzHthd)
+- 밥풍리 | [카톡봇 만들기](https://open.kakao.com/o/gyT0s8Xc)
+- 뉴빙 | [카카오톡 봇만들기 프로젝트 및 수다방](https://open.kakao.com/o/gJ9O0Twc)
+- 민호 | https://open.kakao.com/o/gH0QtJzb
+- 묨 | [카카오톡 봇 만들기 방&카카오톡 봇 질문방, 대화방](https://open.kakao.com/o/gwNM2nwc)
