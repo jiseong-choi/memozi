@@ -51,6 +51,7 @@ Hello, world!<br/>
 
 - Skynet
 - Shalotted shalotte
+- AI-79 시로코봇 (22.01.02)
 
 ### 3. 공식 카카오톡 봇 (방장봇)에 대한 규정
 
