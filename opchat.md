@@ -175,7 +175,6 @@ V-1 항목과 V-2 항목에 해당하지 않지만 카카오톡의 비정상적�
 ### 6. 연합 채팅방 목록
 - White_Choco | [KakaoTalk Bot](https://open.kakao.com/o/gRWuIUI)
 - 즈벤 | [KTB](https://open.kakao.com/o/g7fNdm7b)
-- 스노우 | [재밌는 카카오톡 봇 게임](https://open.kakao.com/o/gyyXcCeb)
 - 스노우 | [코딩 질문 있어요 !](https://open.kakao.com/o/gaIgfh8b)
 - nolbo | [2021 자동응답 봇 개발](https://open.kakao.com/o/grwzHthd)
 - 밥풀이 | [밥풀이의 코딩&프로그래밍 소통방](https://open.kakao.com/o/gyT0s8Xc)
