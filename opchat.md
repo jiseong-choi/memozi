@@ -46,7 +46,7 @@ Hello, world!<br/>
 ### 2. 승인된 비공식 카카오톡 봇 목록
 
 - Skynet
-- Shalotted shalotte
+- Sharbot (22.05.04)
 - AI-79 시로코봇 (22.01.02)
 
 ### 3. 공식 카카오톡 봇 (방장봇)에 대한 규정
