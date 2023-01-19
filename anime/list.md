@@ -204,7 +204,7 @@
 
 ### [Re: 제로부터 시작하는 이세계 생활](https://namu.wiki/w/Re:%20제로부터%20시작하는%20이세계%20생활/애니메이션)
 
-### [SSSS.그리드맨](https://namu.wiki/w/SSSS.그리드맨/애니메이션)
+### [SSSS.GRIDMAN](https://namu.wiki/w/SSSS.GRIDMAN)
 ## 극장판
 너의 이름은<br/>
 날씨의 아이
