@@ -95,7 +95,7 @@
 
 #### [아카메가 벤다! ☆](https://namu.wiki/w/아카메가%20벤다!/애니메이션)
 
-#### [아주르 레인 THE ANIMATION ☆](https://namu.wiki/w/아주르%20레인%20THE%20ANIMATION)
+#### [아주르 레인 ☆](https://namu.wiki/w/아주르%20레인%20THE%20ANIMATION)
 
 #### [악마에 입문했습니다! 이루마 군](https://namu.wiki/w/악마에%20입문했습니다!%20이루마%20군/애니메이션)
 
@@ -139,7 +139,7 @@
 
 #### [저, 트윈 테일이 됩니다 ☆](https://namu.wiki/w/저,%20트윈%20테일이%20됩니다)
 
-#### [죠죠의 기묘한 모험](https://namu.wiki/w/죠죠의%20기묘한%20모험/애니메이션)
+#### [죠죠의 기묘한 모험](https://namu.wiki/w/죠죠의%20기묘한%20모험%20The%20Animation)
 
 #### [주문은 토끼입니까?](https://namu.wiki/w/주문은%20토끼입니까?/애니메이션)
 
