@@ -89,7 +89,7 @@
 
 #### [소말리와 숲의 신 ☆](https://namu.wiki/w/소말리와%20숲의%20신)
 
-#### [신격의 바하무트 genesis ☆](https://namu.wiki/w/신격의%20바하무트%20genesis/애니메이션)
+#### [신격의 바하무트 GENESIS ☆](https://namu.wiki/w/신격의%20바하무트%20GENESIS)
 
 #### [아인 ☆](https://namu.wiki/w/아인(만화)/애니메이션)
 
