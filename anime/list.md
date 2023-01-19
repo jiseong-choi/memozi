@@ -91,7 +91,7 @@
 
 #### [신격의 바하무트 genesis ☆](https://namu.wiki/w/신격의%20바하무트%20genesis/애니메이션)
 
-#### [아인 ☆](https://namu.wiki/w/아인/애니메이션)
+#### [아인 ☆](https://namu.wiki/w/아인(만화)/애니메이션)
 
 #### [아카메가 벤다! ☆](https://namu.wiki/w/아카메가%20벤다!/애니메이션)
 
