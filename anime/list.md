@@ -93,7 +93,7 @@
 
 #### [아카메가 벤다! ☆](https://namu.wiki/w/아카메가%20벤다!/애니메이션)
 
-#### [아주르 레인 THE ANIMATION ☆](https://namu.wiki/w/아주르%20레인%20THE%20ANIMATION/애니메이션)
+#### [아주르 레인 THE ANIMATION ☆](https://namu.wiki/w/아주르%20레인%20THE%20ANIMATION)
 
 #### [악마에 입문했습니다! 이루마 군](https://namu.wiki/w/악마에%20입문했습니다!%20이루마%20군/애니메이션)
 
