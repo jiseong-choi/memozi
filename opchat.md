@@ -24,8 +24,6 @@ Hello, world!<br/>
 
 ## III. 카카오톡 봇
 
-### 1. 비공식 카카오톡 봇 (Notification Listener를 기반으로 작동하는 봇)에 대한 규정
-
 #### 1.
 이 채팅방에서, 비공식 카카오톡 봇(Notification Listener를 기반으로 작동하는 봇)은 방장에 의해 승인된 경우에만 사용이 가능합니다. 
 현재 봇 승인 요청은 받지 않고있으며, 승인된 봇은 DarkTornado님의 Skynet 하나뿐입니다.
