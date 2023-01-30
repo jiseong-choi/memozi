@@ -92,7 +92,7 @@
 
 #### [보석의 나라 ◆](https://namu.wiki/w/보석의%20나라/애니메이션)
 
-#### [봇치 더 락! (외톨이 THE ROCK!) ◆▲](https://namu.wiki/w/외톨이%20THE%20ROCK!)
+#### [봇치 더 락! (외톨이 THE ROCK!) ◇▲](https://namu.wiki/w/외톨이%20THE%20ROCK!)
 
 #### [블렌드·S ◆](https://namu.wiki/w/블렌드·S)
 
