@@ -211,7 +211,8 @@
 
 #### [포켓몬스터 ◇](https://namu.wiki/w/포켓몬스터%20애니메이션%20시리즈)
 
-#### [프린세스 커넥트! Re:Dive](https://namu.wiki/w/프린세스%20커넥트!%20Re:Dive/애니메이션)
+#### [프린세스 커넥트! Re:Dive ◆](https://namu.wiki/w/프린세스%20커넥트!%20Re:Dive/애니메이션)
+
 #### [플래티넘 엔드 ◆](https://namu.wiki/w/플래티넘%20엔드/애니메이션)
 
 #### [타부 타투 ◆](https://namu.wiki/w/타부%20타투/애니메이션)
