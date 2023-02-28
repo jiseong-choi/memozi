@@ -11,7 +11,7 @@ Hello, world!<br/>
 
 바로바로 답변만 얻어서 나가는 것은 지양해주시고, 이 방에 정착해서 함께 열심히 공부해봐요 :)<br/>
 <br/>
-혹시 백준(Baekjoon Online Judge)를 하신다면, solved.ac 라이벌 등록 부탁드릴게요!<br/>
+혹시 백준(Baekjoon Online Judge)을 하신다면, solved.ac 라이벌 등록 부탁드릴게요!<br/>
 <br/>
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=aflat)](https://solved.ac/profile/aflat)
 <br/>
