@@ -11,7 +11,8 @@ Hello, world!<br/>
 
 바로바로 답변만 얻어서 나가는 것은 지양해주시고, 이 방에 정착해서 함께 열심히 공부해봐요 :)<br/>
 <br/>
-이 방은 원래 "카카오톡 봇"이라는 하나의 주제만을 가진 방이었으나, 견문을 넓혀가기 위해 대화 주제를 "프로그래밍"으로 확장하여 지금의 방이 되었습니다. 그렇기때문에 이 방에서는 종종 카카오톡 봇에 관한 대화가 오가며, 사람들이 카카오톡 봇을 사용하는 것을 보실 수 있을겁니다.<br/>
+혹시 백준(Baekjoon Online Judge)를 하신다면, solved.ac 라이벌 등록 부탁드릴게요!<br/>
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=aflat)](https://solved.ac/profile/aflat)
 <br/>
 
 ## II. 규정 총칙
